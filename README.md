@@ -48,6 +48,5 @@ Requirements
 - Bash shell
 ---
 
-🚀 Conclusion
-
+Conclusion
 Python is a powerful and flexible open-source programming language supported by a large community. It is widely used in real-world applications and encourages collaboration and innovation.
